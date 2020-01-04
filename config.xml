@@ -8,6 +8,7 @@
         Antoine "AntoineJT" Tournepiche
     </author>
     <content src="index.html" />
+	<icon src="logo.png" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
