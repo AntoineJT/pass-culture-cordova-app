@@ -1,6 +1,6 @@
 
 # Cordova generated platforms
-platforms/* linguist-generated=true
+platforms/ linguist-generated=true
 
 # Cordova plugins
 plugins/ linguist-vendored=true
