@@ -19,7 +19,10 @@ Si vous voulez modifier ce logiciel, faites un fork. Cela me montrera que ce pro
 
 ## 📄 Licence
 
-Ce logiciel est publié sous licence "GPLv3 or later" : vous devez donc vous conformer aux exigences de la GPLv3 (sauf si mention contraire en entête d'un fichier du projet) mais, si une version 4 de la GPL venait à sortir un jour, vous pourriez redistribuer votre copie dérivée de ce logiciel sous la licence hypothétique précédemment citée.
+Ce logiciel est publié sous licence MIT : vous devez donc vous conformer à ses exigences (sauf mention contraire en entête de fichier).
+
+Si vous utilisez mon travail, vous devez me créditer, qu'il s'agisse d'une version modifiée ou non.
+S'il s'agit d'une version modifiée, créditez moi en tant que créateur du logiciel original et mettez un lien vers cette page GitHub, et n'oubliez pas de vous créditer en tant qu'auteur de la version dérivée/
 
 ## 📌 Crédits
 
