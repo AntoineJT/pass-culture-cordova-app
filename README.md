@@ -1,6 +1,11 @@
 # Pass Culture Cordova App
 *Cette application n'est pas officielle! Elle n'est pas affiliée au projet Pass Culture*
 
+![GitHub](https://img.shields.io/github/license/AntoineJT/pass-culture-cordova-app)
+[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat)](https://gitmoji.carloscuesta.me)
+
+## 🥅 Objectif
+
 Une application cordova toute simple pour accéder facilement à l'app web du pass culture
 
 ## 🔗 Liens connexes
