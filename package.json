@@ -1,6 +1,6 @@
 {
-  "name": "passculture",
-  "displayName": "Pass Culture",
+  "name": "pass-culture-cordova-app",
+  "displayName": "Pass Culture Cordova App",
   "version": "1.0.0",
   "description": "Une application cordova toute simple pour accéder facilement à l'app web du pass culture",
   "main": "index.js",
