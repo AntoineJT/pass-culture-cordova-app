@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Pass Culture",
+  "short_name": "Pass Culture",
+  "version": "io.cordova.hellocordova",
+  "description": "Une application cordova toute simple pour accéder facilement à l'app web du pass culture",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}

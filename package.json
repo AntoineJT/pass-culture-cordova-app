@@ -1,0 +1,31 @@
+{
+  "name": "passculture",
+  "displayName": "Pass Culture",
+  "version": "1.0.0",
+  "description": "Une application cordova toute simple pour accéder facilement à l'app web du pass culture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Antoine \"AntoineJT\" Tournepiche",
+  "license": "GPLv3 or later",
+  "dependencies": {
+    "cordova-android": "^8.1.0",
+    "cordova-browser": "^6.0.0"
+  },
+  "devDependencies": {
+    "cordova-plugin-whitelist": "^1.3.4"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    },
+    "platforms": [
+      "android",
+      "browser"
+    ]
+  }
+}
