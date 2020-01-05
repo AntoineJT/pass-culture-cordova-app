@@ -6,9 +6,10 @@
 
 ## 🥅 Objectif
 
-Une application cordova toute simple pour accéder facilement à l'app web du pass culture
+Une application cordova toute simple pour accéder facilement à l'app web du pass culture.
 
 ## 🔗 Liens connexes
+- [Site web du pass culture](https://pass.culture.fr/)
 - [Code source de l'appli web du pass culture](https://github.com/betagouv/pass-culture-browser)
 - [Appli web du pass culture](app.passculture.beta.gouv.fr/)
 - [Apache Cordova](https://cordova.apache.org/)
@@ -22,7 +23,7 @@ Si vous voulez modifier ce logiciel, faites un fork. Cela me montrera que ce pro
 Ce logiciel est publié sous licence MIT : vous devez donc vous conformer à ses exigences (sauf mention contraire en entête de fichier).
 
 Si vous utilisez mon travail, vous devez me créditer, qu'il s'agisse d'une version modifiée ou non.
-S'il s'agit d'une version modifiée, créditez moi en tant que créateur du logiciel original et mettez un lien vers cette page GitHub, et n'oubliez pas de vous créditer en tant qu'auteur de la version dérivée/
+S'il s'agit d'une version modifiée, créditez moi en tant que créateur du logiciel original et mettez un lien vers cette page GitHub, et n'oubliez pas de vous créditer en tant qu'auteur de la version dérivée.
 
 ## 📌 Crédits
 
